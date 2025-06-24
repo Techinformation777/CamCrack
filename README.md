@@ -34,7 +34,7 @@ This tool requires a basic Termux setup and a few command-line steps.
 
 ## 🎬 YouTube Video
 
-[🔥 Watch Full Setup & Live Demo on YouTube](https://youtu.be/v20UHrx2lDc?si=8I2FZ5Khpg4nWVth)
+[🔥 Watch Full Setup & Live Demo on YouTube](https://youtu.be/Ul95jpQ3N70)
 
 ---
 
@@ -84,7 +84,7 @@ bash start.sh
 
 ## 📌 Contact Me  
 
-<a href="https://youtube.com/@firewallbreaker09">
+<a href="https://youtube.com/@techinformationah">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>  
 <br>  
@@ -94,6 +94,6 @@ bash start.sh
 </a>  
 <br>  
 
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
+<a href="https://whatsapp.com/channel/0029VaxyzHsB4hdWoz0cmt3s">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
 </a>
