@@ -89,7 +89,7 @@ bash start.sh
 </a>  
 <br>  
 
-<a href="https://github.com/thakur2309?tab=repositories">
+<a href="https://github.com/Techinformation777/">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
