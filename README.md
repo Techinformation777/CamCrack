@@ -46,7 +46,7 @@ This tool requires a basic Termux setup and a few command-line steps.
 
 
 
-![Instagram Image ](https://raw.githubusercontent.com/thakur2309/Camhack/refs/heads/main/Screenshot_2025_0412_105039.jpg)
+![Instagram Image ](https://drive.google.com/file/d/1pKTKAVzFum78xG6MHt4t4i8O-fgN97V2/view?usp=drivesdk)
 
 <h3 align="center"> Preview!</h3>
 
